@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ProyectoEdgarSalas/static/css/main.900a1e5a.css",
+    "main.js": "/ProyectoEdgarSalas/static/js/main.97f5e293.js",
+    "static/js/787.019a229f.chunk.js": "/ProyectoEdgarSalas/static/js/787.019a229f.chunk.js",
+    "static/media/Caporal.mp4": "/ProyectoEdgarSalas/static/media/Caporal.7a084a755166bddf4f6c.mp4",
+    "static/media/Tinku.mp4": "/ProyectoEdgarSalas/static/media/Tinku.3d2bc1e58062fe2e0d06.mp4",
+    "static/media/Taquirari.mp4": "/ProyectoEdgarSalas/static/media/Taquirari.8a0e8b3edc13886ff236.mp4",
+    "static/media/Diablada.mp4": "/ProyectoEdgarSalas/static/media/Diablada.bea8225b4fd84ad48770.mp4",
+    "static/media/Potolos.mp4": "/ProyectoEdgarSalas/static/media/Potolos.a530a6d045bb19bd80de.mp4",
+    "static/media/Morenada.mp4": "/ProyectoEdgarSalas/static/media/Morenada.3d93b1b58d32ea7423b9.mp4",
+    "static/media/Saya.mp4": "/ProyectoEdgarSalas/static/media/Saya.1be889933e136e185125.mp4",
+    "static/media/Morenada.jpeg": "/ProyectoEdgarSalas/static/media/Morenada.3bdda52e2928556d135a.jpeg",
+    "static/media/Fiesta.jpg": "/ProyectoEdgarSalas/static/media/Fiesta.79b0d9577d18af59c337.jpg",
+    "static/media/Diablada.jpg": "/ProyectoEdgarSalas/static/media/Diablada.49dc13e3095fd9f7be49.jpg",
+    "static/media/Saya.jpg": "/ProyectoEdgarSalas/static/media/Saya.a9ded25429b700a0ba06.jpg",
+    "static/media/desfile.jpg": "/ProyectoEdgarSalas/static/media/desfile.437318a6d576b3a232a1.jpg",
+    "static/media/Caporales.jpg": "/ProyectoEdgarSalas/static/media/Caporales.adb5d1c2bf945c8e4499.jpg",
+    "static/media/Tinku.jpg": "/ProyectoEdgarSalas/static/media/Tinku.dfe7ebc3873d2211910e.jpg",
+    "static/media/Taquirari.jpg": "/ProyectoEdgarSalas/static/media/Taquirari.49928884420449de996e.jpg",
+    "static/media/Potolos.jpg": "/ProyectoEdgarSalas/static/media/Potolos.9cf5036e1a7252c2a02c.jpg",
+    "index.html": "/ProyectoEdgarSalas/index.html",
+    "main.900a1e5a.css.map": "/ProyectoEdgarSalas/static/css/main.900a1e5a.css.map",
+    "main.97f5e293.js.map": "/ProyectoEdgarSalas/static/js/main.97f5e293.js.map",
+    "787.019a229f.chunk.js.map": "/ProyectoEdgarSalas/static/js/787.019a229f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.900a1e5a.css",
+    "static/js/main.97f5e293.js"
+  ]
+}
